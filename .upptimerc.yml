@@ -17,6 +17,10 @@ sites:
       - mayabeaini
       - beaini
 
+status-website:
+  baseUrl: /repo # where "repo" is your repository name
+  name: Your Status Website
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
