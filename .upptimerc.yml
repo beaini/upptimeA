@@ -8,13 +8,11 @@ sites:
     url: cryptolens.ca/
     maxResponseTime: 1000
     assignees:
-      - mayabeaini
       - beaini
   - name: Cryptolens - API
     url: api.cryptolens.ca/api/pipeline_calculation?amount=10000&symbol=BTC_CAD&side=BUY
     maxResponseTime: 1000
     assignees:
-      - mayabeaini
       - beaini
 
 status-website:
