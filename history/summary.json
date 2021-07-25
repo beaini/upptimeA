@@ -22,17 +22,17 @@
     "url": "api.cryptolens.ca/api/pipeline_calculation?amount=10000&symbol=BTC_CAD&side=BUY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cryptolens-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 273,
-    "timeWeek": 295,
-    "timeMonth": 298,
-    "timeYear": 302,
+    "time": 303,
+    "timeDay": 310,
+    "timeWeek": 310,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   }
 ]
