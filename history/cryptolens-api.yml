@@ -1,7 +1,7 @@
 url: api.cryptolens.ca/api/pipeline_calculation?amount=10000&symbol=BTC_CAD&side=BUY
 status: up
 code: 200
-responseTime: 254
-lastUpdated: 2022-02-15T23:14:51.192Z
+responseTime: 159
+lastUpdated: 2022-02-16T23:14:23.588Z
 startTime: Tue Apr 06 2021 22:47:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
